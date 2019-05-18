@@ -6,4 +6,6 @@
 
 # Instructions
 
-1. Open the project using Unity
+1. Download MarioTaskProject.rar and unpack it
+2. Open the project using Unity
+
