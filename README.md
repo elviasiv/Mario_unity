@@ -2,3 +2,8 @@
 
 
 1st level of the classical game Mario made in Unity. The project is not finished.
+
+
+# Instructions
+
+1. Open the project using Unity
